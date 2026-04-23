@@ -7,4 +7,4 @@
 <h1 style="text-align:center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+shivam9x!;" />
 </h1>
-### A JavaScript and Python enthusiast passionate about making effective projects, particularly using intricate and appealing interfaces.
+### Beginner programmer learning Python and JavaScript, building small projects and exploring web development and UI design.
