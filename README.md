@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/shivam9x/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=shivam9x&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
 <img src="https://github.com/shivam9x/shivam9x/blob/main/295262.jpg" alt="A black and white hill landscape">
