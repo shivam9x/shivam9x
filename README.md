@@ -1,1 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shivam9x)
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{shivam9x}/count.svg" alt="Visitor's Count" />
+</div>
